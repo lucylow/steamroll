@@ -1,6 +1,6 @@
 # Steamroll
 
-Tool for losslessly compressing/decompressing images via dimension reduction.
+Tool for losslessly compressing images via dimension reduction.
 
 ## How it works 
 
