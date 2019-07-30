@@ -12,6 +12,3 @@ Uses the <a href="https://github.com/tensorflow/tfjs-tsne">tfjs-tsne</a> library
 yarn
 yarn watch
 ```
-## Example
-
-[Click here to see an example of Steamroll!](https://storage.googleapis.com/tfjs-examples/tsne-mnist-canvas/dist/index.html)
