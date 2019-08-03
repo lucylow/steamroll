@@ -1,4 +1,4 @@
-# Steamroll
+# Steamroll &#x1F539;
 
 Tool for losslessly compressing images via dimension reduction.
 
