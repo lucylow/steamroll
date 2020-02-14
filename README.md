@@ -3,7 +3,7 @@
 Tool for losslessly compressing images via dimension reduction. 
 
 ![](https://github.com/lucylow/steamroll/blob/master/steamroll%20screens.png)
-*Screenshot. From https://lucylow.github.io/steamroll/. *
+*Screenshot. From https://lucylow.github.io/steamroll/*
 ---
 
 ## How it works 
